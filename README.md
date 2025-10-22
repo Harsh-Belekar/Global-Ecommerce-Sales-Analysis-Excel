@@ -5,6 +5,15 @@
 An interactive **Excel Dashboard** built for analyzing **global e-commerce sales performance** with key business metrics, visualizations, and filters.  
 This project is ideal for showcasing **data analysis, Excel pivot tables, and dashboard design skills**.
 
+![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green)
+![Feature](https://img.shields.io/badge/Feature-Pivot_Tables_&_Charts-lightgreen)
+![Focus](https://img.shields.io/badge/Focus-Sales_Analysis-blue)
+![Visualization](https://img.shields.io/badge/Focus-Data_Visualization-orange)
+![Dashboard](https://img.shields.io/badge/Type-Interactive_Dashboard-yellow)
+![Domain](https://img.shields.io/badge/Domain-E_Commerce_Analytics-orange)
+![ETL](https://img.shields.io/badge/Process-Data_Cleaning-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ---
 
 ## 🚀 Features
@@ -79,14 +88,15 @@ This dashboard simulates a **real-world business scenario**, helping decision-ma
 
 ---
 
-## 💼 Author
+## 🧠 Author
 
-**Harsh Belekar**  
-📧 harshbelekar74@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/harshbelekar/)  
-🔗 [GitHub Profile](https://github.com/Harsh-Belekar)
+**👤 Harsh Belekar**  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+🔗 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | [GitHub](https://github.com/Harsh-Belekar)  
+📧 **harshbelekar74@gmail.com**
 
 ---
 
 ## 📢 Feedback
 If you found this project useful, feel free to ⭐ the repository and connect on LinkedIn!
+
