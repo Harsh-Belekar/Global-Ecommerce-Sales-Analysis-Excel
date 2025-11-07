@@ -3,6 +3,14 @@
 An interactive **Excel Dashboard** built for analyzing **global e-commerce sales performance** with key business metrics, visualizations, and filters.  
 This project is ideal for showcasing **data analysis, Excel pivot tables, and dashboard design skills**.
 
+![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-green)
+![Feature](https://img.shields.io/badge/Feature-Pivot_Tables_&_Charts-lightgreen)
+![Focus](https://img.shields.io/badge/Focus-Sales_&_Visualization-blue)
+![Dashboard](https://img.shields.io/badge/Type-Interactive_Dashboard-yellow)
+![Domain](https://img.shields.io/badge/Domain-E_Commerce_Analytics-orange)
+![ETL](https://img.shields.io/badge/Process-Data_Cleaning-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ---
 
 ## 🚀 Features
@@ -93,17 +101,11 @@ This dashboard simulates a **real-world business scenario**, enabling decision-m
 - Evaluate discount strategies and their profit impact  
 - Understand customer preferences and payment behavior  
 - Improve operational and delivery performance  
-
----
-
-## 💡 Future Improvements
-- Add **quarterly trend analysis** and YoY comparison.  
-- Integrate **Power Query** for automated data refresh.  
-- Include **profit margin KPIs** and performance benchmarks.  
-
+ 
 ---
 
 ## ⭐ Feedback
 If you found this project insightful, don’t forget to ⭐ the repository and connect with me on LinkedIn!  
 
 ---
+
