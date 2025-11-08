@@ -13,6 +13,12 @@ This project is ideal for showcasing **data analysis, Excel pivot tables, and da
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Dashboard_Screenshot.png)
+
+---
+
 ## 🚀 Features
 
 ### **1. KPI Cards**
@@ -37,12 +43,6 @@ This project is ideal for showcasing **data analysis, Excel pivot tables, and da
 - **Customer Segment Share** – Pie chart of customer segments  
 - **Payment Method Share** – Donut chart displaying transaction preferences  
 - **Top 10 Products by Sales** – Highlighting best-selling products  
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ---
 
@@ -117,3 +117,4 @@ This dashboard simulates a **real-world business scenario**, enabling decision-m
 If you found this project insightful, don’t forget to ⭐ the repository and connect with me on LinkedIn!  
 
 ---
+
