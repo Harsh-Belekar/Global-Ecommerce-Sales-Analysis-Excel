@@ -101,11 +101,19 @@ This dashboard simulates a **real-world business scenario**, enabling decision-m
 - Evaluate discount strategies and their profit impact  
 - Understand customer preferences and payment behavior  
 - Improve operational and delivery performance  
- 
+
+---
+
+## 🧠 Author
+
+**👤 Harsh Belekar**  
+📍 *Data Analyst | Python | SQL | Power BI | Excel | Data Visualization*  
+🌐 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 💻 [GitHub](https://github.com/Harsh-Belekar)  
+📧 **harshbelekar74@gmail.com**
+
 ---
 
 ## ⭐ Feedback
 If you found this project insightful, don’t forget to ⭐ the repository and connect with me on LinkedIn!  
 
 ---
-
