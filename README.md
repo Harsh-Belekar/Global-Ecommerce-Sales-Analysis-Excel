@@ -141,14 +141,13 @@ An excellent portfolio project for Data Analyst, Business Analyst, and BI roles.
 
 ---
 
-## 👤 Author
+## 🧑‍💻 Author
 
-*Harsh Belekar*  
-Data Analyst | SQL | Excel | Power BI | Python | Data Visualization  
+*👤 Harsh Belekar*  
+📍 Data Analyst | Python | SQL | Power BI | Excel | Data Visualization  
+📬 [LinkedIn](https://www.linkedin.com/in/harshbelekar) | 🔗[GitHub](https://github.com/Harsh-Belekar)
 
-🔗 LinkedIn: https://www.linkedin.com/in/harshbelekar  
-💻 GitHub: https://github.com/Harsh-Belekar  
-📧 Email: *harshbelekar74@gmail.com*
+📧 [harshbelekar74@gmail.com](mailto:harshbelekar74@gmail.com)
 
 ---
 
@@ -157,3 +156,4 @@ Data Analyst | SQL | Excel | Power BI | Python | Data Visualization
 If you found this project helpful, please ⭐ the repository and connect with me on LinkedIn!
 
 ---
+
