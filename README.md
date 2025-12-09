@@ -151,9 +151,4 @@ An excellent portfolio project for Data Analyst, Business Analyst, and BI roles.
 
 ---
 
-## ⭐ Support
-
-If you found this project helpful, please ⭐ the repository and connect with me on LinkedIn!
-
----
-
+⭐ If you found this project helpful, feel free to star the repo and connect with me for collaboration!
