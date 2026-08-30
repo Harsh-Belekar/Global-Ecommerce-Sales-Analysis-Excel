@@ -32,6 +32,28 @@ To address these issues, the company requires an *interactive Excel dashboard* c
 
 ---
 
+## 📂 Project Structure
+
+```
+│
+├── README.md 
+│
+├── Data/ 
+│    └── Ecommerce_Raw_Data.xlsx
+│
+├── Docs/ 
+│    ├── Business Problem.pdf
+│    └── Global E-Commerce Sales Analysis Report.pdf
+│
+├── Excel-Analysis/
+│    └── Global_Ecommerce_Sales_Analysis_Dashboard.xlsx
+│
+└── images/
+    └── Dashboard_Screenshot.png
+```
+
+---
+
 ## 🚀 Features of the Dashboard
 
 ### *1. Key Metrics (KPIs)*
