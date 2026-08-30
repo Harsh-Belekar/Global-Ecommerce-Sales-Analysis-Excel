@@ -1,6 +1,6 @@
 # 📊 Global E-Commerce Sales Analysis (Excel)
 
-A complete *end-to-end Excel Data Analysis Project* designed for *Global E-Commerce Inc.*  
+A complete *End-to-End Excel Data Analysis Project* designed for *Global E-Commerce Inc.*  
 This project covers *Business Understanding → Data Cleaning → KPI Analysis → Dashboard Development → Insights → Final Report*.
 
 This repository includes the *Interactive Excel Dashboard, **Business Problem Document, and the **Final Project Report PDF*.
@@ -11,7 +11,7 @@ This repository includes the *Interactive Excel Dashboard, **Business Problem Do
 
 ## 🧩 Business Problem
 
-*Global E-Commerce Inc.* is experiencing challenges in understanding overall business performance across  
+***Global E-Commerce Inc.*** is experiencing challenges in understanding overall business performance across  
 *regions, product categories, customer segments, and payment methods*. Management wants clarity on:
 
 - Why profit margins vary across categories  
@@ -28,7 +28,7 @@ To address these issues, the company requires an *interactive Excel dashboard* c
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Images/Dashboard_Screenshot.png)
 
 ---
 
